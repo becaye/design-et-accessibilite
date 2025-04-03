@@ -13,4 +13,7 @@
 - En apprendre plus sur oklch : https://la-cascade.io/articles/oklch-en-css;
 - Leonardo.io, un outil de création de palettes de couleurs sur des contrastes;
 - Nate Baldwin, le développeur de Leonardo qui parle beaucoup de couleurs https://natebaldw.in/#/;
+- Design Accessible, une checklist assez complète sur les éléments à prendre en compte en design : https://design-accessible.fr ;
+- Design.gouv, une formation publique sur l'accessibilité numérique : https://design.numerique.gouv.fr/accessibilite-numerique/ ;
+- Easy Checks, une conférence portée par les membres de l'équipe Accessibilité de la DINUM (Direction Interministérielle du Numérique) : https://www.paris-web.fr/2024/atelier/easy-checks-pour-verifier-laccessibilite ;
 - 
