@@ -14,6 +14,7 @@
 - En apprendre plus sur oklch : https://la-cascade.io/articles/oklch-en-css;
 - https://leonardo.io, un outil de création de palettes de couleurs sur des contrastes;
 - Nate Baldwin, le développeur de Leonardo qui parle beaucoup de couleurs https://natebaldw.in/#/;
+- Stop usign HSL for color systems (Eugene Fedorenko) : https://www.wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems.html;
 
 ### Design Gouv
 - Le DSFR, Système de Design de l’État : https://www.systeme-de-design.gouv.fr/;
