@@ -15,6 +15,7 @@
 - https://leonardo.io, un outil de création de palettes de couleurs sur des contrastes;
 - Nate Baldwin, le développeur de Leonardo qui parle beaucoup de couleurs https://natebaldw.in/#/;
 - Stop usign HSL for color systems (Eugene Fedorenko) : https://www.wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems.html;
+- Une méthode de mise en place d’un système de couleurs prévisible : https://medium.com/@AxisDesignLab/unlocking-accessible-design-ecb5990a6ca8
 
 ### Design Gouv
 - Le DSFR, Système de Design de l’État : https://www.systeme-de-design.gouv.fr/;
