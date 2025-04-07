@@ -10,6 +10,7 @@
 ## Liens
 
 ### Les couleurs
+- 87% du premier million (pages les plus consultées du web) n’ont pas de contrastes suffisants : https://webaim.org/projects/million/;
 - Tout savoir sur la couleur : https://colorandcontrast.com/;
 - En apprendre plus sur oklch : https://la-cascade.io/articles/oklch-en-css;
 - https://leonardo.io, un outil de création de palettes de couleurs sur des contrastes;
