@@ -12,7 +12,7 @@
 ### Les couleurs
 - Tout savoir sur la couleur : https://colorandcontrast.com/;
 - En apprendre plus sur oklch : https://la-cascade.io/articles/oklch-en-css;
-- Leonardo.io, un outil de création de palettes de couleurs sur des contrastes;
+- https://leonardo.io, un outil de création de palettes de couleurs sur des contrastes;
 - Nate Baldwin, le développeur de Leonardo qui parle beaucoup de couleurs https://natebaldw.in/#/;
 
 ### Design Gouv
